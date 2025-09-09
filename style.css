@@ -1,0 +1,24 @@
+.user {
+	display: flex;
+	position: relative;
+	align-items: center;
+	background-color: rgb(90, 102, 124);
+	width: 800px;
+	border-radius: 20px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+.user p {
+	font-size: xx-large;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-left: 20px;
+}
+
+.rank {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	margin: 0
+}
